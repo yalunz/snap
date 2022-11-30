@@ -9,3 +9,7 @@ The task is to simulate a game of snap between two players using standard playin
 3. Games of snap should now be simulated. Cards are played one at a time and when two matching cards are dealt one after another the first player to shout snap wins. (You do not need to implement the case of a draw round)
 4. The winner of each round collects all the cards dealt in this round
 5. Once all cards in the deck are exhausted the application should declare the winner based on who has the most won cards
+
+**Definitions**
+
+Matching Card = Same value irrespective of suit
