@@ -2,7 +2,8 @@
 
 This Python application simulates a game of snap between two players using standard playing card decks.
 
-**Instructions**
+**Instructions** 
+
 To start the game, run snap.py using Python3:
 ``` python3 snap.py ```
 
