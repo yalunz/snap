@@ -6,7 +6,8 @@ This Python application simulates a game of snap between two players using stand
 To start the game, run snap.py using Python3:
 ``` python3 snap.py ```
 
-Enter the number of card decks to play with to start the simulation.
+Enter the number of card decks to play with to start the simulation.  
+
 **Requirements**
 
 1. The application should ask the user how many playing card decks to play with
